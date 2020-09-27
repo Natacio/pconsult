@@ -1,0 +1,12 @@
+
+
+.texto{
+  font-family: 'Anton', sans-serif;
+}
+
+@media only screen and (min-width: 993px) {
+    .container {
+      width: 90%;
+    }
+  }
+
